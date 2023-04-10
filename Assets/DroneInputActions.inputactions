@@ -1,0 +1,158 @@
+{
+    "name": "DroneInputActions",
+    "maps": [
+        {
+            "name": "Drone",
+            "id": "8e0b778d-effc-4153-929f-e406b144e8f7",
+            "actions": [
+                {
+                    "name": "Yaw",
+                    "type": "Value",
+                    "id": "1704cdd6-8fc3-4029-9c3a-a6ba96f34a5c",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "Pitch",
+                    "type": "Value",
+                    "id": "bcaa6465-9fa7-40ef-9742-f8dfdf624809",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "Roll",
+                    "type": "Value",
+                    "id": "ed6bdb8d-f267-4543-808d-1a7cd185a195",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "Power",
+                    "type": "Value",
+                    "id": "1bad1b9f-ae86-4deb-9c2c-0df643c517d6",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "Hovering",
+                    "type": "Button",
+                    "id": "3f4f76df-cffa-4189-9084-4a3aaccaf520",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "073a868c-b04f-417a-a37b-2b03973db442",
+                    "path": "<HID::KHOBBY KHOBBY>/ry",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Yaw",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "e445384e-248f-4696-8bb7-5b6e4ffbc3be",
+                    "path": "<HID::FeiYing Model GOLD WARRIOR SIM -  G4~7 Controller>/ry",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Yaw",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "5b0de8ab-76d9-473a-8781-02662f54b03d",
+                    "path": "<HID::KHOBBY KHOBBY>/stick/y",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Pitch",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "18189154-1996-48d6-9869-71d6c433a78d",
+                    "path": "<HID::FeiYing Model GOLD WARRIOR SIM -  G4~7 Controller>/stick/y",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Pitch",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "333624b9-f6db-460b-9139-134b5a4dbc68",
+                    "path": "<HID::KHOBBY KHOBBY>/stick/x",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Roll",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "40eb77fa-c4ec-4a8a-b27d-a0b54192c11d",
+                    "path": "<HID::FeiYing Model GOLD WARRIOR SIM -  G4~7 Controller>/stick/x",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Roll",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "cffab0a0-3435-4f2b-8f39-3887585ef98a",
+                    "path": "<HID::KHOBBY KHOBBY>/z",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Power",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "ef18bb3b-b845-4959-b61d-e2079c77aa00",
+                    "path": "<HID::FeiYing Model GOLD WARRIOR SIM -  G4~7 Controller>/z",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Power",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "ec691dfe-d2fa-40e1-a24e-2f4ff0b4fe70",
+                    "path": "<HID::KHOBBY KHOBBY>/button2",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Hovering",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
