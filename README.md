@@ -5,7 +5,7 @@
 
 
 ## Vertical Move
-![ezgif com-video-to-gif](https://user-images.githubusercontent.com/87575546/231080814-b01a8d71-9e47-44df-a242-9802788c4773.gif)
+<img src="![ezgif com-video-to-gif](https://user-images.githubusercontent.com/87575546/231080814-b01a8d71-9e47-44df-a242-9802788c4773.gif)">
 
 
 ## Yaw
