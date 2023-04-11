@@ -24,4 +24,3 @@
 ## 외부 힘이 가해져도 방향 & 높이 유지 
 ![ezgif com-video-to-gif (4)](https://user-images.githubusercontent.com/87575546/231077351-8529cf94-702e-40b0-a068-a29734999e14.gif)
 ![ezgif com-video-to-gif (3)](https://user-images.githubusercontent.com/87575546/231077385-97b7b65b-acbd-4f4b-b6bf-610cd53ffa3e.gif)
-
