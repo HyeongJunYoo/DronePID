@@ -5,10 +5,7 @@ Unity 엔진을 사용하여 PID Controller를 적용한 물리 기반 드론 �
 ~~~
 
 ## Vertical Move
-<img src="https://user-images.githubusercontent.com/87575546/231082115-52352da7-aa36-4473-b8bd-cf07cbd13734.gif">
-![ezgif com-video-to-gif](https://user-images.githubusercontent.com/87575546/231082115-52352da7-aa36-4473-b8bd-cf07cbd13734.gif){: width="300" height="300"}
-
-
+<img src="https://user-images.githubusercontent.com/87575546/231082115-52352da7-aa36-4473-b8bd-cf07cbd13734.gif" width="300" height="300">
 
 ## Yaw
 ![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/87575546/231076952-2af77e77-f924-4e32-96a0-75f7a4511c15.gif){: width="300" height="300"}
