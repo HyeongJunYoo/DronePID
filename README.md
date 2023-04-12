@@ -1,8 +1,14 @@
 # Drone PID Controller
+- Unity 엔진을 사용하여 PID Controller를 적용한 물리 기반 드론 시뮬레이션
+- TwenyOz 기업에서 인턴 활동으로 제작한 프로젝트
+- 개발 기간: 23/03/27 ~ 23/04/07
 
+## 개요
+실제 드론을 조작하는 것은 매우 어렵기 때문에 시중에 판매하는 드론들은 대부분 PID Controller를 탑재하고 있다.
 ~~~
-Unity 엔진을 사용하여 PID Controller를 적용한 물리 기반 드론 시뮬레이션
+PID
 ~~~
+
 
 
 ## Result
